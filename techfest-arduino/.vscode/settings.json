@@ -1,0 +1,15 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/chrisschneider/.platformio/penv/bin:/Users/chrisschneider/.platformio/penv:/Users/chrisschneider/.nvm/versions/node/v10.15.2/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS",
+    "PLATFORMIO_CALLER": "vscode"
+  },
+  "files.associations": {
+    "array": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp",
+    "vector": "cpp",
+    "initializer_list": "cpp"
+  }
+}
