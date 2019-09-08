@@ -1,3 +1,29 @@
 .App {
   padding: 10px;
 }
+
+.Car {
+  position: relative;
+  background: #eee;
+  width: 200px;
+  height: 400px;
+  margin: 50px;
+}
+
+.Wheel {
+  position: absolute;
+  background: linear-gradient(
+    180deg,
+    rgba(84, 82, 113, 1) 0%,
+    rgba(107, 128, 133, 1) 100%
+  );
+  height: 100px;
+  width: 20px;
+}
+
+.Speed {
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  background-color: red;
+}
