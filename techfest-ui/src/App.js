@@ -109,6 +109,8 @@ function App() {
           />
         </div>
       </div>
+      <br />
+      <br />
       <div>
         <button
           onClick={() => {
@@ -119,6 +121,8 @@ function App() {
         >
           Parallel parking {parallel ? "ON" : ""}
         </button>
+        <br />
+        <br />
         <button
           onClick={() => {
             setTurn360(!turn360);

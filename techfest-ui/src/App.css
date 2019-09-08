@@ -3,11 +3,12 @@
 }
 
 .Car {
-  position: relative;
-  background: #eee;
+  position: absolute;
+  top: 50px;
+  right: 100px;
   width: 200px;
   height: 400px;
-  margin: 50px;
+  background: #eee;
 }
 
 .Wheel {

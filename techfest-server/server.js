@@ -5,8 +5,8 @@ const SERVO_MAX = 199;
 const SPEED_MAX = 199;
 
 const app = express();
-var client = mqtt.connect("mqtt://10.25.14.105", {
-  clientId: "tf_server"
+var client = mqtt.connect("mqtt://10.25.14.53", {
+  clientId: "tf_server_2"
 });
 
 var speed = 0,
